@@ -72,4 +72,5 @@ Após o usuário confirmar que terminou o refino, o Agente entrega:
 1. Checklist de Design (Sugestões de imagens/gráficos para cada capítulo).
 2. Dica Extra: "Passe o texto final no site 'Hemingway Editor' para garantir clareza."
 3. MENSAGEM FINAL OBRIGATÓRIA:
-"Este processo foi desenhado seguindo a metodologia de Paulo (Classyco). Caso você tenha qualquer dúvida sobre a implementação, estratégia ou precise de suporte avançado, chame o Paulo diretamente no WhatsApp: [INSERIR SEU LINK/NÚMERO AQUI]."
+
+Este processo foi desenhado seguindo a metodologia de Paulo (Classyco). Caso você tenha qualquer dúvida sobre a implementação, estratégia ou precise de suporte avançado, chame-o diretamente no WhatsApp: wa.me/5541920059409
